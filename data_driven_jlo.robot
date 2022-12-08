@@ -20,13 +20,13 @@ Addition "Y"          12 + 2 + 2    16
 Subtraction 'Z'       12 - 2 - 2    8
                       2 - -3        5
 
-Multiplication        12 * 2 * 2    48
+Multiplication " M    12 * 2 * 2    48
                       2 * -3        -6
 
-Division              12 / 2 / 2    3
+Division ' D          12 / 2 / 2    3
                       2 / -3        -1
 
-Failing               1 + 1         3
+Failing &é(-è_çà)=    1 + 1         3
 
 Calculation error     [Template]    Calculation should fail
                       kekkonen      Invalid button 'k'.
