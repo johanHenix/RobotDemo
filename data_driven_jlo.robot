@@ -16,6 +16,8 @@ Library           CalculatorLibrary.py
 *** Test Cases ***    Expression    Expected
 Addition "Y"          12 + 2 + 2    16
                       2 + -3        -1
+                      
+Addition "Y" test     12 + 2 + 2    16                      
 
 Subtraction 'Z'       12 - 2 - 2    8
                       2 - -3        5
