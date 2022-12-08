@@ -28,6 +28,9 @@ Division ' D          12 / 2 / 2    3
 
 Addition &é(-è_çà)=   12 + 2 + 2    16
                       2 + -3        -1
+
+Subtraction '"&é"'(-è_çà)=  12 - 2 - 2    8
+                            2 - -3        5
                       
 Failing               1 + 1         3
 
