@@ -26,7 +26,10 @@ Multiplication " M    12 * 2 * 2    48
 Division ' D          12 / 2 / 2    3
                       2 / -3        -1
 
-Failing &é(-è_çà)=    1 + 1         3
+Addition &é(-è_çà)=   12 + 2 + 2    16
+                      2 + -3        -1
+                      
+Failing               1 + 1         3
 
 Calculation error     [Template]    Calculation should fail
                       kekkonen      Invalid button 'k'.
